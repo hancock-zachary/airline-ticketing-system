@@ -1,0 +1,9 @@
+[project]
+name = "airline-ticketing-system"
+version = "0.1.0"
+description = "Course project for IS 6495 - Python Programming (University of Utah)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.1",
+]
